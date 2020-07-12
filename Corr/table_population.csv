@@ -1,0 +1,384 @@
+id,county,state,concatenate,Estimate!!Total
+0500000US06085,Santa Clara,California,Santa ClaraCalifornia,1937570
+0500000US06099,Stanislaus,California,StanislausCalifornia,549815
+0500000US06045,Mendocino,California,MendocinoCalifornia,87606
+0500000US06059,Orange,California,OrangeCalifornia,3185968
+0500000US06065,Riverside,California,RiversideCalifornia,2450758
+0500000US06067,Sacramento,California,SacramentoCalifornia,1540975
+0500000US06083,Santa Barbara,California,Santa BarbaraCalifornia,446527
+0500000US06031,Kings,California,KingsCalifornia,151366
+0500000US06079,San Luis Obispo,California,San Luis ObispoCalifornia,284010
+0500000US06039,Madera,California,MaderaCalifornia,157672
+0500000US06111,Ventura,California,VenturaCalifornia,850967
+0500000US06107,Tulare,California,TulareCalifornia,465861
+0500000US06019,Fresno,California,FresnoCalifornia,994400
+0500000US06087,Santa Cruz,California,Santa CruzCalifornia,274255
+0500000US06037,Los Angeles,California,Los AngelesCalifornia,10105518
+0500000US06061,Placer,California,PlacerCalifornia,393149
+0500000US06033,Lake,California,LakeCalifornia,64382
+0500000US06075,San Francisco,California,San FranciscoCalifornia,883305
+0500000US06071,San Bernardino,California,San BernardinoCalifornia,2171603
+0500000US06115,Yuba,California,YubaCalifornia,78041
+0500000US06023,Humboldt,California,HumboldtCalifornia,136373
+0500000US06001,Alameda,California,AlamedaCalifornia,1666753
+0500000US06097,Sonoma,California,SonomaCalifornia,499942
+0500000US06113,Yolo,California,YoloCalifornia,220408
+0500000US06057,Nevada,California,NevadaCalifornia,99696
+0500000US06007,Butte,California,ButteCalifornia,231256
+0500000US06017,El Dorado,California,El DoradoCalifornia,190678
+0500000US06025,Imperial,California,ImperialCalifornia,181827
+0500000US06029,Kern,California,KernCalifornia,896764
+0500000US06041,Marin,California,MarinCalifornia,259666
+0500000US06101,Sutter,California,SutterCalifornia,96807
+0500000US06073,San Diego,California,San DiegoCalifornia,3343364
+0500000US06047,Merced,California,MercedCalifornia,274765
+0500000US06089,Shasta,California,ShastaCalifornia,180040
+0500000US06013,Contra Costa,California,Contra CostaCalifornia,1150215
+0500000US06095,Solano,California,SolanoCalifornia,446610
+0500000US06077,San Joaquin,California,San JoaquinCalifornia,752660
+0500000US06053,Monterey,California,MontereyCalifornia,435594
+0500000US06055,Napa,California,NapaCalifornia,139417
+0500000US06081,San Mateo,California,San MateoCalifornia,769545
+0500000US09009,New Haven,Connecticut,New HavenConnecticut,857620
+0500000US09007,Middlesex,Connecticut,MiddlesexConnecticut,162682
+0500000US09001,Fairfield,Connecticut,FairfieldConnecticut,943823
+0500000US09013,Tolland,Connecticut,TollandConnecticut,150921
+0500000US09011,New London,Connecticut,New LondonConnecticut,266784
+0500000US09005,Litchfield,Connecticut,LitchfieldConnecticut,181111
+0500000US09015,Windham,Connecticut,WindhamConnecticut,117027
+0500000US09003,Hartford,Connecticut,HartfordConnecticut,892697
+0500000US12099,Palm Beach,Florida,Palm BeachFlorida,1485941
+0500000US12053,Hernando,Florida,HernandoFlorida,190865
+0500000US12115,Sarasota,Florida,SarasotaFlorida,426718
+0500000US12119,Sumter,Florida,SumterFlorida,128754
+0500000US12017,Citrus,Florida,CitrusFlorida,147929
+0500000US12107,Putnam,Florida,PutnamFlorida,74163
+0500000US12101,Pasco,Florida,PascoFlorida,539630
+0500000US12033,Escambia,Florida,EscambiaFlorida,315534
+0500000US12113,Santa Rosa,Florida,Santa RosaFlorida,179349
+0500000US12073,Leon,Florida,LeonFlorida,292502
+0500000US12103,Pinellas,Florida,PinellasFlorida,975280
+0500000US12083,Marion,Florida,MarionFlorida,359977
+0500000US12035,Flagler,Florida,FlaglerFlorida,112067
+0500000US12061,Indian River,Florida,Indian RiverFlorida,157413
+0500000US12097,Osceola,Florida,OsceolaFlorida,367990
+0500000US12023,Columbia,Florida,ColumbiaFlorida,70503
+0500000US12089,Nassau,Florida,NassauFlorida,85832
+0500000US12019,Clay,Florida,ClayFlorida,216072
+0500000US12015,Charlotte,Florida,CharlotteFlorida,184998
+0500000US12057,Hillsborough,Florida,HillsboroughFlorida,1436888
+0500000US12085,Martin,Florida,MartinFlorida,160912
+0500000US12005,Bay,Florida,BayFlorida,185287
+0500000US12011,Broward,Florida,BrowardFlorida,1951260
+0500000US12055,Highlands,Florida,HighlandsFlorida,105424
+0500000US12131,Walton,Florida,WaltonFlorida,71375
+0500000US12009,Brevard,Florida,BrevardFlorida,596849
+0500000US12081,Manatee,Florida,ManateeFlorida,394855
+0500000US12087,Monroe,Florida,MonroeFlorida,75027
+0500000US12021,Collier,Florida,CollierFlorida,378488
+0500000US12086,Miami-Dade,Florida,Miami-DadeFlorida,2761581
+0500000US12001,Alachua,Florida,AlachuaFlorida,269956
+0500000US12071,Lee,Florida,LeeFlorida,754610
+0500000US12105,Polk,Florida,PolkFlorida,708009
+0500000US12091,Okaloosa,Florida,OkaloosaFlorida,207269
+0500000US12117,Seminole,Florida,SeminoleFlorida,467832
+0500000US12095,Orange,Florida,OrangeFlorida,1380645
+0500000US12109,St. Johns,Florida,St. JohnsFlorida,254261
+0500000US12111,St. Lucie,Florida,St. LucieFlorida,321128
+0500000US12031,Duval,Florida,DuvalFlorida,950181
+0500000US12069,Lake,Florida,LakeFlorida,356495
+0500000US12127,Volusia,Florida,VolusiaFlorida,547538
+0500000US13117,Forsyth,Georgia,ForsythGeorgia,236612
+0500000US13121,Fulton,Georgia,FultonGeorgia,1050114
+0500000US13073,Columbia,Georgia,ColumbiaGeorgia,154291
+0500000US13095,Dougherty,Georgia,DoughertyGeorgia,91243
+0500000US13151,Henry,Georgia,HenryGeorgia,230220
+0500000US13089,DeKalb,Georgia,DeKalbGeorgia,756558
+0500000US13127,Glynn,Georgia,GlynnGeorgia,85219
+0500000US13051,Chatham,Georgia,ChathamGeorgia,289195
+0500000US13113,Fayette,Georgia,FayetteGeorgia,113459
+0500000US13313,Whitfield,Georgia,WhitfieldGeorgia,104062
+0500000US13135,Gwinnett,Georgia,GwinnettGeorgia,927781
+0500000US13247,Rockdale,Georgia,RockdaleGeorgia,90594
+0500000US13045,Carroll,Georgia,CarrollGeorgia,118121
+0500000US13139,Hall,Georgia,HallGeorgia,202148
+0500000US13021,Bibb,Georgia,BibbGeorgia,153095
+0500000US13031,Bulloch,Georgia,BullochGeorgia,77296
+0500000US13115,Floyd,Georgia,FloydGeorgia,97927
+0500000US13217,Newton,Georgia,NewtonGeorgia,109541
+0500000US13015,Bartow,Georgia,BartowGeorgia,106408
+0500000US13013,Barrow,Georgia,BarrowGeorgia,80809
+0500000US13157,Jackson,Georgia,JacksonGeorgia,70422
+0500000US13245,Richmond,Georgia,RichmondGeorgia,201554
+0500000US13285,Troup,Georgia,TroupGeorgia,70034
+0500000US13063,Clayton,Georgia,ClaytonGeorgia,289615
+0500000US13223,Paulding,Georgia,PauldingGeorgia,164044
+0500000US13059,Clarke,Georgia,ClarkeGeorgia,127330
+0500000US13097,Douglas,Georgia,DouglasGeorgia,145331
+0500000US13047,Catoosa,Georgia,CatoosaGeorgia,67420
+0500000US13297,Walton,Georgia,WaltonGeorgia,93503
+0500000US13067,Cobb,Georgia,CobbGeorgia,756865
+0500000US13057,Cherokee,Georgia,CherokeeGeorgia,254149
+0500000US13215,Muscogee,Georgia,MuscogeeGeorgia,194160
+0500000US13185,Lowndes,Georgia,LowndesGeorgia,116321
+0500000US13255,Spalding,Georgia,SpaldingGeorgia,66100
+0500000US13295,Walker,Georgia,WalkerGeorgia,69410
+0500000US13153,Houston,Georgia,HoustonGeorgia,155469
+0500000US13077,Coweta,Georgia,CowetaGeorgia,145864
+0500000US23019,Penobscot,Maine,PenobscotMaine,151096
+0500000US23005,Cumberland,Maine,CumberlandMaine,293557
+0500000US23001,Androscoggin,Maine,AndroscogginMaine,107679
+0500000US23031,York,Maine,YorkMaine,206229
+0500000US23003,Aroostook,Maine,AroostookMaine,67111
+0500000US23011,Kennebec,Maine,KennebecMaine,122083
+0500000US24025,Harford,Maryland,HarfordMaryland,253956
+0500000US24015,Cecil,Maryland,CecilMaryland,102826
+0500000US24037,St. Mary's,Maryland,St. Mary'sMaryland,112664
+0500000US24009,Calvert,Maryland,CalvertMaryland,92003
+0500000US24031,Montgomery,Maryland,MontgomeryMaryland,1052567
+0500000US24043,Washington,Maryland,WashingtonMaryland,150926
+0500000US24001,Allegany,Maryland,AlleganyMaryland,70975
+0500000US24027,Howard,Maryland,HowardMaryland,323196
+0500000US24003,Anne Arundel,Maryland,Anne ArundelMaryland,576031
+0500000US24013,Carroll,Maryland,CarrollMaryland,168429
+0500000US24045,Wicomico,Maryland,WicomicoMaryland,103195
+0500000US24017,Charles,Maryland,CharlesMaryland,161503
+0500000US24005,Baltimore,Maryland,BaltimoreMaryland,828431
+0500000US24510,Baltimore city,Maryland,Baltimore cityMaryland,602495
+0500000US24021,Frederick,Maryland,FrederickMaryland,255648
+0500000US24033,Prince George's,Maryland,Prince George'sMaryland,909308
+0500000US25003,Berkshire,Massachusetts,BerkshireMassachusetts,126348
+0500000US25017,Middlesex,Massachusetts,MiddlesexMassachusetts,1614714
+0500000US25015,Hampshire,Massachusetts,HampshireMassachusetts,161355
+0500000US25001,Barnstable,Massachusetts,BarnstableMassachusetts,213413
+0500000US25011,Franklin,Massachusetts,FranklinMassachusetts,70963
+0500000US25013,Hampden,Massachusetts,HampdenMassachusetts,470406
+0500000US25009,Essex,Massachusetts,EssexMassachusetts,790638
+0500000US25021,Norfolk,Massachusetts,NorfolkMassachusetts,705388
+0500000US25027,Worcester,Massachusetts,WorcesterMassachusetts,830839
+0500000US25005,Bristol,Massachusetts,BristolMassachusetts,564022
+0500000US25023,Plymouth,Massachusetts,PlymouthMassachusetts,518132
+0500000US25025,Suffolk,Massachusetts,SuffolkMassachusetts,807252
+0500000US34007,Camden,New Jersey,CamdenNew Jersey,507078
+0500000US34005,Burlington,New Jersey,BurlingtonNew Jersey,445384
+0500000US34017,Hudson,New Jersey,HudsonNew Jersey,676061
+0500000US34035,Somerset,New Jersey,SomersetNew Jersey,331164
+0500000US34025,Monmouth,New Jersey,MonmouthNew Jersey,621354
+0500000US34013,Essex,New Jersey,EssexNew Jersey,799767
+0500000US34019,Hunterdon,New Jersey,HunterdonNew Jersey,124714
+0500000US34009,Cape May,New Jersey,Cape MayNew Jersey,92560
+0500000US34001,Atlantic,New Jersey,AtlanticNew Jersey,265429
+0500000US34023,Middlesex,New Jersey,MiddlesexNew Jersey,829685
+0500000US34037,Sussex,New Jersey,SussexNew Jersey,140799
+0500000US34033,Salem,New Jersey,SalemNew Jersey,62607
+0500000US34021,Mercer,New Jersey,MercerNew Jersey,369811
+0500000US34031,Passaic,New Jersey,PassaicNew Jersey,503310
+0500000US34015,Gloucester,New Jersey,GloucesterNew Jersey,291408
+0500000US34029,Ocean,New Jersey,OceanNew Jersey,601651
+0500000US34011,Cumberland,New Jersey,CumberlandNew Jersey,150972
+0500000US34039,Union,New Jersey,UnionNew Jersey,558067
+0500000US34027,Morris,New Jersey,MorrisNew Jersey,494228
+0500000US34003,Bergen,New Jersey,BergenNew Jersey,936692
+0500000US34041,Warren,New Jersey,WarrenNew Jersey,105779
+0500000US36059,Nassau,New York,NassauNew York,1358343
+0500000US36071,Orange,New York,OrangeNew York,381951
+0500000US36087,Rockland,New York,RocklandNew York,325695
+0500000US36069,Ontario,New York,OntarioNew York,109864
+0500000US36015,Chemung,New York,ChemungNew York,84254
+0500000US36045,Jefferson,New York,JeffersonNew York,111755
+0500000US36029,Erie,New York,ErieNew York,919719
+0500000US36111,Ulster,New York,UlsterNew York,178599
+0500000US36119,Westchester,New York,WestchesterNew York,967612
+0500000US36113,Warren,New York,WarrenNew York,64265
+0500000US36063,Niagara,New York,NiagaraNew York,210433
+0500000US36079,Putnam,New York,PutnamNew York,98892
+0500000US36051,Livingston,New York,LivingstonNew York,63227
+0500000US36103,Suffolk,New York,SuffolkNew York,1481093
+0500000US36011,Cayuga,New York,CayugaNew York,77145
+0500000US36047,Kings,New York,KingsNew York,2582830
+0500000US36067,Onondaga,New York,OnondagaNew York,461809
+0500000US36001,Albany,New York,AlbanyNew York,307117
+0500000US36053,Madison,New York,MadisonNew York,70795
+0500000US36081,Queens,New York,QueensNew York,2278906
+0500000US36117,Wayne,New York,WayneNew York,90064
+0500000US36005,Bronx,New York,BronxNew York,1432132
+0500000US36089,St. Lawrence,New York,St. LawrenceNew York,108047
+0500000US36085,Richmond,New York,RichmondNew York,476179
+0500000US36093,Schenectady,New York,SchenectadyNew York,155350
+0500000US36009,Cattaraugus,New York,CattaraugusNew York,76840
+0500000US36055,Monroe,New York,MonroeNew York,742474
+0500000US36105,Sullivan,New York,SullivanNew York,75498
+0500000US36007,Broome,New York,BroomeNew York,191659
+0500000US36027,Dutchess,New York,DutchessNew York,293718
+0500000US36101,Steuben,New York,SteubenNew York,95796
+0500000US36083,Rensselaer,New York,RensselaerNew York,159442
+0500000US36013,Chautauqua,New York,ChautauquaNew York,127939
+0500000US36019,Clinton,New York,ClintonNew York,80695
+0500000US36061,New York,New York,New YorkNew York,1628701
+0500000US36091,Saratoga,New York,SaratogaNew York,230163
+0500000US36109,Tompkins,New York,TompkinsNew York,102793
+0500000US36065,Oneida,New York,OneidaNew York,229577
+0500000US36075,Oswego,New York,OswegoNew York,117898
+0500000US39113,Montgomery,Ohio,MontgomeryOhio,532331
+0500000US39023,Clark,Ohio,ClarkOhio,134585
+0500000US39085,Lake,Ohio,LakeOhio,230514
+0500000US39153,Summit,Ohio,SummitOhio,541918
+0500000US39155,Trumbull,Ohio,TrumbullOhio,198627
+0500000US39169,Wayne,Ohio,WayneOhio,115967
+0500000US39093,Lorain,Ohio,LorainOhio,309461
+0500000US39055,Geauga,Ohio,GeaugaOhio,94031
+0500000US39081,Jefferson,Ohio,JeffersonOhio,65767
+0500000US39061,Hamilton,Ohio,HamiltonOhio,816684
+0500000US39095,Lucas,Ohio,LucasOhio,429899
+0500000US39133,Portage,Ohio,PortageOhio,162927
+0500000US39063,Hancock,Ohio,HancockOhio,75930
+0500000US39151,Stark,Ohio,StarkOhio,371574
+0500000US39109,Miami,Ohio,MiamiOhio,106222
+0500000US39145,Scioto,Ohio,SciotoOhio,75502
+0500000US39029,Columbiana,Ohio,ColumbianaOhio,102665
+0500000US39119,Muskingum,Ohio,MuskingumOhio,86183
+0500000US39035,Cuyahoga,Ohio,CuyahogaOhio,1243857
+0500000US39165,Warren,Ohio,WarrenOhio,232173
+0500000US39141,Ross,Ohio,RossOhio,76931
+0500000US39057,Greene,Ohio,GreeneOhio,167995
+0500000US39139,Richland,Ohio,RichlandOhio,121099
+0500000US39049,Franklin,Ohio,FranklinOhio,1310300
+0500000US39157,Tuscarawas,Ohio,TuscarawasOhio,92176
+0500000US39017,Butler,Ohio,ButlerOhio,382378
+0500000US39101,Marion,Ohio,MarionOhio,65256
+0500000US39173,Wood,Ohio,WoodOhio,130696
+0500000US39007,Ashtabula,Ohio,AshtabulaOhio,97493
+0500000US39013,Belmont,Ohio,BelmontOhio,67505
+0500000US39009,Athens,Ohio,AthensOhio,65818
+0500000US39099,Mahoning,Ohio,MahoningOhio,229642
+0500000US39045,Fairfield,Ohio,FairfieldOhio,155782
+0500000US39089,Licking,Ohio,LickingOhio,175769
+0500000US39025,Clermont,Ohio,ClermontOhio,205466
+0500000US39041,Delaware,Ohio,DelawareOhio,204826
+0500000US39103,Medina,Ohio,MedinaOhio,179146
+0500000US39003,Allen,Ohio,AllenOhio,102663
+0500000US39043,Erie,Ohio,ErieOhio,74615
+0500000US42091,Montgomery,Pennsylvania,MontgomeryPennsylvania,828604
+0500000US42051,Fayette,Pennsylvania,FayettePennsylvania,130441
+0500000US42001,Adams,Pennsylvania,AdamsPennsylvania,102811
+0500000US42041,Cumberland,Pennsylvania,CumberlandPennsylvania,251423
+0500000US42021,Cambria,Pennsylvania,CambriaPennsylvania,131730
+0500000US42049,Erie,Pennsylvania,EriePennsylvania,272061
+0500000US42133,York,Pennsylvania,YorkPennsylvania,448273
+0500000US42005,Armstrong,Pennsylvania,ArmstrongPennsylvania,65263
+0500000US42045,Delaware,Pennsylvania,DelawarePennsylvania,564751
+0500000US42095,Northampton,Pennsylvania,NorthamptonPennsylvania,304807
+0500000US42029,Chester,Pennsylvania,ChesterPennsylvania,522046
+0500000US42101,Philadelphia,Pennsylvania,PhiladelphiaPennsylvania,1584138
+0500000US42007,Beaver,Pennsylvania,BeaverPennsylvania,164742
+0500000US42037,Columbia,Pennsylvania,ColumbiaPennsylvania,65456
+0500000US42071,Lancaster,Pennsylvania,LancasterPennsylvania,543557
+0500000US42129,Westmoreland,Pennsylvania,WestmorelandPennsylvania,350611
+0500000US42027,Centre,Pennsylvania,CentrePennsylvania,162805
+0500000US42055,Franklin,Pennsylvania,FranklinPennsylvania,154835
+0500000US42097,Northumberland,Pennsylvania,NorthumberlandPennsylvania,91083
+0500000US42081,Lycoming,Pennsylvania,LycomingPennsylvania,113664
+0500000US42073,Lawrence,Pennsylvania,LawrencePennsylvania,86184
+0500000US42003,Allegheny,Pennsylvania,AlleghenyPennsylvania,1218452
+0500000US42017,Bucks,Pennsylvania,BucksPennsylvania,628195
+0500000US42085,Mercer,Pennsylvania,MercerPennsylvania,110683
+0500000US42111,Somerset,Pennsylvania,SomersetPennsylvania,73952
+0500000US42077,Lehigh,Pennsylvania,LehighPennsylvania,368100
+0500000US42107,Schuylkill,Pennsylvania,SchuylkillPennsylvania,142067
+0500000US42125,Washington,Pennsylvania,WashingtonPennsylvania,207346
+0500000US42063,Indiana,Pennsylvania,IndianaPennsylvania,84501
+0500000US42033,Clearfield,Pennsylvania,ClearfieldPennsylvania,79388
+0500000US42025,Carbon,Pennsylvania,CarbonPennsylvania,64227
+0500000US42069,Lackawanna,Pennsylvania,LackawannaPennsylvania,210793
+0500000US42011,Berks,Pennsylvania,BerksPennsylvania,420152
+0500000US42043,Dauphin,Pennsylvania,DauphinPennsylvania,277097
+0500000US42089,Monroe,Pennsylvania,MonroePennsylvania,169507
+0500000US42013,Blair,Pennsylvania,BlairPennsylvania,122492
+0500000US42039,Crawford,Pennsylvania,CrawfordPennsylvania,85063
+0500000US42019,Butler,Pennsylvania,ButlerPennsylvania,187888
+0500000US42079,Luzerne,Pennsylvania,LuzernePennsylvania,317646
+0500000US42075,Lebanon,Pennsylvania,LebanonPennsylvania,141314
+0500000US48187,Guadalupe,Texas,GuadalupeTexas,163694
+0500000US48183,Gregg,Texas,GreggTexas,123707
+0500000US48347,Nacogdoches,Texas,NacogdochesTexas,65711
+0500000US48439,Tarrant,Texas,TarrantTexas,2084931
+0500000US48041,Brazos,Texas,BrazosTexas,226758
+0500000US48209,Hays,Texas,HaysTexas,222631
+0500000US48251,Johnson,Texas,JohnsonTexas,171361
+0500000US48037,Bowie,Texas,BowieTexas,94324
+0500000US48139,Ellis,Texas,EllisTexas,179436
+0500000US48291,Liberty,Texas,LibertyTexas,86323
+0500000US48479,Webb,Texas,WebbTexas,275910
+0500000US48091,Comal,Texas,ComalTexas,148373
+0500000US48361,Orange,Texas,OrangeTexas,83572
+0500000US48497,Wise,Texas,WiseTexas,68305
+0500000US48245,Jefferson,Texas,JeffersonTexas,255001
+0500000US48257,Kaufman,Texas,KaufmanTexas,128622
+0500000US48491,Williamson,Texas,WilliamsonTexas,566719
+0500000US48181,Grayson,Texas,GraysonTexas,133991
+0500000US48309,McLennan,Texas,McLennanTexas,254607
+0500000US48397,Rockwall,Texas,RockwallTexas,100657
+0500000US48409,San Patricio,Texas,San PatricioTexas,66893
+0500000US48141,El Paso,Texas,El PasoTexas,840758
+0500000US48201,Harris,Texas,HarrisTexas,4698619
+0500000US48085,Collin,Texas,CollinTexas,1005146
+0500000US48231,Hunt,Texas,HuntTexas,96493
+0500000US48029,Bexar,Texas,BexarTexas,1986049
+0500000US48203,Harrison,Texas,HarrisonTexas,66726
+0500000US48303,Lubbock,Texas,LubbockTexas,307412
+0500000US48381,Randall,Texas,RandallTexas,136271
+0500000US48039,Brazoria,Texas,BrazoriaTexas,370200
+0500000US48157,Fort Bend,Texas,Fort BendTexas,787858
+0500000US48451,Tom Green,Texas,Tom GreenTexas,118189
+0500000US48339,Montgomery,Texas,MontgomeryTexas,590925
+0500000US48441,Taylor,Texas,TaylorTexas,137640
+0500000US48471,Walker,Texas,WalkerTexas,72480
+0500000US48121,Denton,Texas,DentonTexas,859064
+0500000US48453,Travis,Texas,TravisTexas,1248743
+0500000US48113,Dallas,Texas,DallasTexas,2637772
+0500000US48213,Henderson,Texas,HendersonTexas,82299
+0500000US48099,Coryell,Texas,CoryellTexas,74808
+0500000US48215,Hidalgo,Texas,HidalgoTexas,865939
+0500000US48329,Midland,Texas,MidlandTexas,172578
+0500000US48027,Bell,Texas,BellTexas,355642
+0500000US48061,Cameron,Texas,CameronTexas,423908
+0500000US48005,Angelina,Texas,AngelinaTexas,87092
+0500000US48485,Wichita,Texas,WichitaTexas,132064
+0500000US48135,Ector,Texas,EctorTexas,162124
+0500000US48423,Smith,Texas,SmithTexas,230221
+0500000US48469,Victoria,Texas,VictoriaTexas,92035
+0500000US48021,Bastrop,Texas,BastropTexas,86976
+0500000US48355,Nueces,Texas,NuecesTexas,362265
+0500000US48375,Potter,Texas,PotterTexas,119648
+0500000US48167,Galveston,Texas,GalvestonTexas,337890
+0500000US48367,Parker,Texas,ParkerTexas,138371
+0500000US51069,Frederick,Virginia,FrederickVirginia,88355
+0500000US51059,Fairfax,Virginia,FairfaxVirginia,1150795
+0500000US51510,Alexandria city,Virginia,Alexandria cityVirginia,160530
+0500000US51680,Lynchburg city,Virginia,Lynchburg cityVirginia,82126
+0500000US51095,James City,Virginia,James CityVirginia,76397
+0500000US51650,Hampton city,Virginia,Hampton cityVirginia,134313
+0500000US51800,Suffolk city,Virginia,Suffolk cityVirginia,91185
+0500000US51041,Chesterfield,Virginia,ChesterfieldVirginia,348556
+0500000US51019,Bedford,Virginia,BedfordVirginia,78747
+0500000US51087,Henrico,Virginia,HenricoVirginia,329261
+0500000US51085,Hanover,Virginia,HanoverVirginia,107239
+0500000US51179,Stafford,Virginia,StaffordVirginia,149960
+0500000US51003,Albemarle,Virginia,AlbemarleVirginia,108718
+0500000US51161,Roanoke,Virginia,RoanokeVirginia,94073
+0500000US51760,Richmond city,Virginia,Richmond cityVirginia,228783
+0500000US51013,Arlington,Virginia,ArlingtonVirginia,237521
+0500000US51199,York,Virginia,YorkVirginia,67846
+0500000US51121,Montgomery,Virginia,MontgomeryVirginia,98985
+0500000US51165,Rockingham,Virginia,RockinghamVirginia,81244
+0500000US51700,Newport News city,Virginia,Newport News cityVirginia,178626
+0500000US51710,Norfolk city,Virginia,Norfolk cityVirginia,244076
+0500000US51810,Virginia Beach city,Virginia,Virginia Beach cityVirginia,450189
+0500000US51061,Fauquier,Virginia,FauquierVirginia,70675
+0500000US51015,Augusta,Virginia,AugustaVirginia,75457
+0500000US51550,Chesapeake city,Virginia,Chesapeake cityVirginia,242634
+0500000US51770,Roanoke city,Virginia,Roanoke cityVirginia,99920
+0500000US51107,Loudoun,Virginia,LoudounVirginia,406850
+0500000US51740,Portsmouth city,Virginia,Portsmouth cityVirginia,94632
+0500000US51153,Prince William,Virginia,Prince WilliamVirginia,468011
+0500000US51177,Spotsylvania,Virginia,SpotsylvaniaVirginia,134238
