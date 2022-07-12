@@ -14,10 +14,8 @@ please change the file diretory based on your drive accordingly before running t
 
 Just run the plot_visualization.m file and booom...... test
 
-![image](packaging0112099803036580_top.png)
-![GitHub Logo](packaging0112099803036580_top.png)
 
-<img src="packaging0112099803036580_top.png" width="450" height="250"/>
+<img src="packaging0112099803036580_top.png" width="450" height="25"/>
 
 
 
