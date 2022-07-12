@@ -17,7 +17,7 @@ Just run the plot_visualization.m file and booom...... test
 ![image](packaging0112099803036580_top.png)
 ![GitHub Logo](packaging0112099803036580_top.png)
 
-<img src="packaging0112099803036580_top.png" = 10*5/>
+<img src="packaging0112099803036580_top.png" = 100x20/>
 
 
 
