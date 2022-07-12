@@ -16,3 +16,5 @@ Just run the plot_visualization.m file and booom...... test
 
 ![image](packaging0112099803036580_top.png)
 ![GitHub Logo](packaging0112099803036580_top.png)
+
+<img src="packaging0112099803036580_top.png" width="200" />
